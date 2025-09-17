@@ -4,10 +4,6 @@ I'm a **Data Analyst** at [watson.ch](https://www.watson.ch/) with a strong pass
 
 I hold a Bachelor in Data Science from the [ZHAW School of Engineering](https://www.zhaw.ch/de/engineering) and am currently pursuing my Master's in Information and Data Science at the [HSLU](https://www.hslu.ch/de-ch/). My background, combining a practical apprenticeship with academic studies, has given me a strong entrepreneurial mindset and a business-oriented approach to data challenges.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilsrechberger&show_icons=true&hide_border=true&count_private=true&title_color=F40F97&icon_color=00C6FF&text_color=FFFFFF&bg_color=151515" alt="Nils's GitHub Stats" />
-</p>
-
 ---
 
 ## 💡 About Me & My Mission
